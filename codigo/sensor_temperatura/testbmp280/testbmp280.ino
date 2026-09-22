@@ -1,12 +1,7 @@
 #include <Adafruit_BMP280.h>
 
 
-
-
-
 Adafruit_BMP280 bmp; // I2C
-
-
 
 void setup() {
   // put your setup code here, to run once:
