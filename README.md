@@ -1,5 +1,6 @@
+# [📁 Ver código](./codigo/)
+
 ## 📌 Índice
-[📁 Ver código](./codigo/)
 - [Agile](#agile)
 - [Backlog del Producto (CanSat)](#backlog-del-producto-cansat)
   - [1. Requisitos Técnicos y del Sistema](#1-requisitos-técnicos-y-del-sistema)
@@ -78,10 +79,10 @@ A continuación se muestra el listado estructurado de requisitos, característic
 ## 🛠️ Backlog del Sprint (Desglosado en Tareas)
 
 ### 🔹 6. Tener un lugar en la nube en el que todos los miembros del equipo puedan crear y consultar la información
-- [ ] **6.1.** Crear un equipo de trabajo y rellenar la tarea de elección de grupos del CanSat del aula virtual. *(Tarea aula)*
-- [ ] **6.2.** Crear una carpeta en Drive (`@iesgpb.net`) y dar acceso a todos los miembros del grupo y al profesor como editores. *(Tarea aula)*
-- [ ] **6.3.** Crear un tablero en Kanban (Trello) con las columnas necesarias y dar acceso a los miembros del equipo y al profesor. *(Tarea aula)*
-- [ ] **6.4.** Planificar el sprint y subirlo. *(Tarea aula)*
+- [ ] **6.1.** Crear un equipo de trabajo y rellenar la tarea de elección de grupos del CanSat del aula virtual. 
+- [ ] **6.2.** Crear una carpeta en Drive y dar acceso a todos los miembros del grupo y al profesor como editores.
+- [ ] **6.3.** Crear un tablero en Kanban (Trello) con las columnas necesarias y dar acceso a los miembros del equipo y al profesor. 
+- [ ] **6.4.** Planificar el sprint y subirlo. 
 
 ### 🔹 1. Carcasa imprimible en 3D que albergue todos los componentes con dimensiones específicas
 - [ ] **1.1.** Modelo 3D de Arduino.
@@ -89,7 +90,7 @@ A continuación se muestra el listado estructurado de requisitos, característic
 - [ ] **1.3.** Modelo 3D de la carcasa con todos los componentes en su interior.
 
 ### 🔹 5. Presentar los documentos necesarios para poder concursar
-- [ ] **5.1.** Crear la plantilla del documento PDR. *(Tarea aula)*
+- [ ] **5.1.** Crear la plantilla del documento PDR.
 - [ ] **5.2.** Documentar una planificación del proyecto basada en metodologías ágiles. Fijar los sprints hasta el lanzamiento del proyecto.
 - [ ] **5.3.** Documentar el proceso de diseño de la carcasa mediante modelos 3D.
 
