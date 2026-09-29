@@ -1,4 +1,5 @@
 ## 📌 Índice
+[📁 Ver código](./codigo/)
 - [Agile](#agile)
 - [Backlog del Producto (CanSat)](#backlog-del-producto-cansat)
   - [1. Requisitos Técnicos y del Sistema](#1-requisitos-técnicos-y-del-sistema)
