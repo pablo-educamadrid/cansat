@@ -1,3 +1,6 @@
+![Texto alternativo](./assets/cansat-logo.png)
+
+
 # [📁 Ver código](./codigo/)
 
 ## 📌 Índice
