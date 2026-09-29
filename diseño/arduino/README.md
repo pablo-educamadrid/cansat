@@ -1,3 +1,10 @@
+## 📐 Arduino: Diseño y Modelado 3D
+
+Para la integración mecánica del picosatélite, utilizamos el entorno de **Tinkercad**. En la página del proyecto se muestran los modelos y componentes de Arduino con sus dimensiones reales, lo que permite planificar el espacio interno, ajustar los soportes y verificar el encaje de la electrónica antes de imprimir la carcasa.
+
+
+
+
 <img width="438" height="332" alt="image" src="https://github.com/user-attachments/assets/6f4a64db-a5e7-4fbe-a824-2a42d84420c1" />
 <img width="829" height="540" alt="image" src="https://github.com/user-attachments/assets/fb555d43-a715-4e16-ae81-6c92a32c5ebc" />
 
