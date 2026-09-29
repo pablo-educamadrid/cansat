@@ -10,9 +10,9 @@ Este espacio está dedicado a la documentación, diseño y desarrollo progresivo
 ![Texto alternativo](./assets/cansat-logo.png)
 
 
-# [📁 Ver código](./codigo/)
+# [📁 Código](./codigo/)
 
-## 📌 Índice
+# 📌 Documentación
 - [Agile](#agile)
 - [Backlog del Producto (CanSat)](#backlog-del-producto-cansat)
   - [1. Requisitos Técnicos y del Sistema](#1-requisitos-técnicos-y-del-sistema)
