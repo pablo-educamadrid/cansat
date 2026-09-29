@@ -1,12 +1,18 @@
-
-
-
-
-
-
-
+## 📌 Índice
+- [Agile](#agile)
+- [Backlog del Producto (CanSat)](#backlog-del-producto-cansat)
+  - [1. Requisitos Técnicos y del Sistema](#1-requisitos-técnicos-y-del-sistema)
+  - [2. Historias de Usuario](#2-historias-de-usuario)
+- [CanSat IES GPB](#cansat-ies-gpb)
+- [Referencias](#referencias)
+  
 # Agile
+
 ![agile](./assets/meto-agile.png)
+
+
+
+---
 
 # Backlog del Producto (CanSat)
 
@@ -18,8 +24,8 @@ A continuación se muestra el listado estructurado de requisitos, característic
    * Carcasa imprimible en 3D para albergar todos los componentes respetando las dimensiones específicas.
 
 2. **Sistema de Retención en Caída (Paracaídas)**
-   * **Velocidad de caída:** Entre $8\text{ m/s}$ y $12\text{ m/s}$.
-   * **Resistencia estructural:** Soportar una fuerza de hasta $50\text{ N}$ en el punto de unión entre el paracaídas y el chasis.
+   * **Velocidad de caída:** Entre 8 m/s y 12 m/s.
+   * **Resistencia estructural:** Soportar una fuerza de hasta 50 N en el punto de unión entre el paracaídas y el chasis.
 
 3. **Alimentación Autónoma**
    * **Autonomía:** Mínimo 4 horas de operación continua.
@@ -43,20 +49,13 @@ A continuación se muestra el listado estructurado de requisitos, característic
 8. **Plan de difusión y patrocinio**
    * **Descripción:** Como equipo, queremos elaborar e implementar un plan de comunicación y patrocinio para dar visibilidad al proyecto y conseguir el apoyo necesario.
 
-
 ## CanSat IES GPB
 
 Repositorio del proyecto Cansat
 
+## Referencias
 
-
-
-
-
-
-referencias:
-https://github.com/elena-alvarez/CanSat-desde-cero
-
+* [CanSat desde cero (GitHub)](https://github.com/elena-alvarez/CanSat-desde-cero)
 
 
 
