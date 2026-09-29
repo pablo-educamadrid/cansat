@@ -3,6 +3,11 @@
 - [Backlog del Producto (CanSat)](#backlog-del-producto-cansat)
   - [1. Requisitos Técnicos y del Sistema](#1-requisitos-técnicos-y-del-sistema)
   - [2. Historias de Usuario](#2-historias-de-usuario)
+- [Sprint 1](#sprint-1)
+  - [Temporalización](#-temporalización)
+  - [Objetivos del Sprint](#-objetivos-del-sprint)
+  - [Backlog a Realizar](#-backlog-a-realizar)
+  - [Backlog del Sprint (Desglosado en Tareas)](#%EF%B8%8F-backlog-del-sprint-desglosado-en-tareas)
 - [CanSat IES GPB](#cansat-ies-gpb)
 - [Referencias](#referencias)
   
@@ -48,6 +53,48 @@ A continuación se muestra el listado estructurado de requisitos, característic
 
 8. **Plan de difusión y patrocinio**
    * **Descripción:** Como equipo, queremos elaborar e implementar un plan de comunicación y patrocinio para dar visibilidad al proyecto y conseguir el apoyo necesario.
+  
+# Sprint 1
+
+## 📅 Temporalización
+* **Fecha de inicio:** 3 de octubre
+* **Fecha de finalización:** 25 de octubre
+
+## 🎯 Objetivos del Sprint
+* Tener un modelo 3D de la carcasa del CanSat.
+* Tener un entorno de trabajo que permita a todos los miembros del equipo crear y visualizar toda la información del proyecto.
+* Documentar el proceso de diseño 3D y parte de la planificación.
+
+## 📋 Backlog a Realizar
+1. **Carcasa imprimible en 3D** que albergue todos los componentes con dimensiones específicas.
+5. **Presentar los documentos** necesarios para poder concursar.
+6. **Tener un lugar en la nube** en el que todos los miembros del equipo puedan crear y consultar la información.
+
+> 💡 **Nota:** No es indispensable que se termine una historia o backlog de producto en un solo Sprint; puede realizarse una parte.
+
+---
+
+## 🛠️ Backlog del Sprint (Desglosado en Tareas)
+
+### 🔹 6. Tener un lugar en la nube en el que todos los miembros del equipo puedan crear y consultar la información
+- [ ] **6.1.** Crear un equipo de trabajo y rellenar la tarea de elección de grupos del CanSat del aula virtual. *(Tarea aula)*
+- [ ] **6.2.** Crear una carpeta en Drive (`@iesgpb.net`) y dar acceso a todos los miembros del grupo y al profesor como editores. *(Tarea aula)*
+- [ ] **6.3.** Crear un tablero en Kanban (Trello) con las columnas necesarias y dar acceso a los miembros del equipo y al profesor. *(Tarea aula)*
+- [ ] **6.4.** Planificar el sprint y subirlo. *(Tarea aula)*
+
+### 🔹 1. Carcasa imprimible en 3D que albergue todos los componentes con dimensiones específicas
+- [ ] **1.1.** Modelo 3D de Arduino.
+- [ ] **1.2.** Modelo 3D del resto de componentes (sensor de temperatura/presión, módulo de radio y pila 9V).
+- [ ] **1.3.** Modelo 3D de la carcasa con todos los componentes en su interior.
+
+### 🔹 5. Presentar los documentos necesarios para poder concursar
+- [ ] **5.1.** Crear la plantilla del documento PDR. *(Tarea aula)*
+- [ ] **5.2.** Documentar una planificación del proyecto basada en metodologías ágiles. Fijar los sprints hasta el lanzamiento del proyecto.
+- [ ] **5.3.** Documentar el proceso de diseño de la carcasa mediante modelos 3D.
+
+### 🔹 8. Crear un plan de difusión y patrocinio del proyecto
+- [ ] **8.1.** Lluvia de ideas sobre el plan de difusión.
+- [ ] **8.2.** Lluvia de ideas sobre el plan de patrocinio del proyecto.
 
 ## CanSat IES GPB
 
