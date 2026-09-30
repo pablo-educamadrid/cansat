@@ -58,7 +58,7 @@ A partir de los valores leídos en el Monitor Serie y los datos de tu tabla, ded
 ## PARTE 2: Programación, Control de LEDs y Salida Serie
 
 ### 2.1. Conversión de Valores para el Control de LEDs
-Escribe la lógica del programa para que los LEDs respondan en función de la temperatura calculada, utilizando una temperatura base de referencia ($\text{TEMP\_BASE} = 20.0\ ^\circ\text{C}$):
+Escribe la lógica del programa para que los LEDs respondan en función de la temperatura calculada:
 
 - **Si $\text{Temp} < 22.0\ ^\circ\text{C}$:** Apagar todos los LEDs (0 LEDs).
 - **Si $22.0\ ^\circ\text{C} \le \text{Temp} < 24.0\ ^\circ\text{C}$:** Encender **1 LED** (Pin 2 en `HIGH`).
