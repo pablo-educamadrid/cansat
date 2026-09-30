@@ -1,6 +1,6 @@
 # 🛰️ Proyecto CanSat — Repositorio de Desarrollo
 
-Este espacio está dedicado a la documentación, diseño y desarrollo progresivopara que el alumnado pueda participar en el concurso. Aquí encontrarás software, pruebas de sensores y las guías para la construcción e integración continua del sistema:
+Este espacio está dedicado a la documentación, diseño y desarrollo progresivo para que el alumnado pueda participar en el concurso **[CanSat](https://esero.es/cansat/)**. Aquí encontrarás software, pruebas de sensores y las guías para la construcción e integración continua del sistema:
 
 * **Hardware y Esquemas:** Diagramas de conexión y pruebas individuales de componentes.
 * **software:** Código incremental para la lectura de sensores, calibración y control de vuelo.
@@ -17,6 +17,7 @@ Este espacio está dedicado a la documentación, diseño y desarrollo progresivo
 
 
 ## Referencias
+* [Página CanSat](https://esero.es/cansat/)
 
 * [CanSat desde cero (GitHub)](https://github.com/elena-alvarez/CanSat-desde-cero)
 
