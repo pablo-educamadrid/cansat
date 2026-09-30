@@ -12,7 +12,7 @@ Este espacio está dedicado a la documentación, diseño y desarrollo progresivo
 
 ## 📁 Actividades
 ### [📁 Project](./00activites/00ProjectManagment)
-### [📁 Design](./00activities/01design)
+### [📁 Design](/00activites/01desing/)
 ### [📁 programming](./00activities/02programming)
 
 
