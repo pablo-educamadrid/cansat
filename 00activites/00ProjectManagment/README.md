@@ -92,6 +92,7 @@ A continuación se muestra el listado estructurado de requisitos, característic
 - [ ] **5.1.** Crear la plantilla del documento PDR.
 - [ ] **5.2.** Documentar una planificación del proyecto basada en metodologías ágiles. Fijar los sprints hasta el lanzamiento del proyecto.
 - [ ] **5.3.** Documentar el proceso de diseño de la carcasa mediante modelos 3D.
+- [ ] **5.4.** Comprobar todos los documentos que hay que entregar incluyendo el video.
 
 ### 🔹 8. Crear un plan de difusión y patrocinio del proyecto
 - [ ] **8.1.** Lluvia de ideas sobre el plan de difusión.
