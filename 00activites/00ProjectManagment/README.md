@@ -14,7 +14,7 @@
   
 # Agile
 
-![agile](./assets/meto-agile.png)
+![agile](/assets/meto-agile.png)
 
 
 
