@@ -68,5 +68,9 @@ Escribe la lógica del programa para que los LEDs respondan en función de la te
 ### 2.2. Envío de Datos por el Puerto Serie
 Configura la comunicación serie a $9600\text{ baudios}$ para transmitir los datos procesados con el siguiente formato:
 
+**Temporizador no bloqueante (millis):** Comprueba si ha transcurrido un intervalo de 1000 ms (1 segundo). Si es verdadero, envía la lectura formateada al Monitor Serie y actualiza la marca de tiempo; si es falso, reinicia el ciclo de inmediato.
+
 ```text
 Lectura ADC: [valor] | Voltaje: [valor] V | Temp: [valor] °C
+
+
