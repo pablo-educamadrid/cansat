@@ -10,7 +10,7 @@ Este espacio está dedicado a la documentación, diseño y desarrollo progresivo
 ![Texto alternativo](./assets/cansat-logo.png)
 
 
-## [📁 Actividades](./00Activities/)
+## [📁 Actividades](./00activities/)
 ### [📁 Project](./00activites/00ProjectManagment)
 ### [📁 Design](./00activities/01design)
 ### [📁 programming](./00activities/02programming)
